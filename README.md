@@ -89,7 +89,7 @@ if _name_ == '_main_':
 ```
 
 ## MobileRobot Movement Image:
-![1](https://github.com/HariharanJayavel/mobilerobot-openloopcontrol/assets/144870546/8e174242-be81-47ef-a3b5-de1283ba8c14)
+![1](https://github.com/HariharanJayavel/mobilerobot-openloopcontrol/assets/144870546/b601bcc5-fe31-4c0d-b3cf-74435d1279d3)
 ![2](https://github.com/HariharanJayavel/mobilerobot-openloopcontrol/assets/144870546/ecf18c61-b5b9-450d-a8d9-3d36afcead74)
 ![3](https://github.com/HariharanJayavel/mobilerobot-openloopcontrol/assets/144870546/23b6d3c7-db69-4dec-970d-fc0f37481948)
 
